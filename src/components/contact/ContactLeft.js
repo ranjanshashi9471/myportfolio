@@ -36,17 +36,17 @@ const ContactLeft = () => {
 			<div className="flex flex-col gap-4">
 				<h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
 				<div className="flex gap-4">
-					<a href="">
+					<a href="https://www.instagram.com/ranjan_shashi_/">
 						<span className="bannerIcon">
 							<FaInstagram />
 						</span>
 					</a>
-					<a href="">
+					<a href="https://x.com/ranjanshashi947">
 						<span className="bannerIcon">
 							<FaTwitter />
 						</span>
 					</a>
-					<a href="">
+					<a href="https://www.linkedin.com/in/shashi-ranjan-kumar-7ba2331ba/">
 						<span className="bannerIcon">
 							<FaLinkedinIn />
 						</span>
